@@ -182,14 +182,11 @@ min_r = quick_min_effect(n=80, power=0.8)
 If you use this tool in your research, please cite:
 
 ```
-[Your Name] (2024). Correlation Power Analysis: A Python module for power analysis in correlational studies. 
-GitHub: https://github.com/yourusername/correlation-power
+Elston, TW. (2025). Correlation Power Analysis: A Python module for power analysis in correlational studies. 
+GitHub: https://github.com/t-elston/correlation_power_analysis
 ```
 
 ## License
 
 MIT License - feel free to use, modify, and distribute.
 
-## Contributing
-
-Contributions welcome! Please feel free to submit issues or pull requests.
